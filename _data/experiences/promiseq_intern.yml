@@ -27,7 +27,7 @@ projects:
     description: "Automated the latency tests, accuracy tests and deployment to dev, stage and production environments/clusters using Gitlab runners."
     technologies:
       - python
-      - github_actions.
+      - github_actions
       - cloud-logo
 achievements:
   - "Production Model Deployment."
