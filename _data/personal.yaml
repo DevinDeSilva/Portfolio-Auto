@@ -1,37 +1,40 @@
 details:
   - key: name
-    value: John Doe
+    value: Devin De Silva
   - key: occupation 
     value: Machine Learning Engineer
   - key: education
-    value: MS in Computer Science
+    value: BSc. (Hons) Computer Science and Engineering
   - key: research_publications  
-    value: 6
+    value: 3
   - key: active_research  
-    value: 3  
+    value: 1  
   - key: working_years
-    value: 5 years
-  - key: completed_projects
-    value: 20
-  - key: active_projects 
-    value: 6
+    value: 1 years
 
-description: "I have gained valuable experience in machine learning and deep learning during my three years as a Machine Learning Engineer. I've contributed to several projects and published research papers. I'm dedicated to continuous learning and staying up-to-date with the latest advancements in artificial intelligence."
+description: "I'm a ML Engineer at IronOne Technologies, Austin Texas. My current research interests lie in Explainable AI and Zero-shot Learning Domain and currently I am working on fintech domain and utilizing model explanations to provide valuable insights to a major asset management company. By exploiting my theoretical knowledge, I engaged in projects and work spanning aspects of research, including data analysis, formulating an optimization objective, and algorithm design."
 
 fields_of_interest:
-  - Natural Language Processing
-  - Reinforcement Learning
-  - Data Analysis
+  - Explainable AI
+  - Parameter Efficient Modeling
+  - Data analysis
   - Statistical Modeling
 
 soft_skills:
   - Problem Solving
   - Teamwork
   - Data Visualization
+  - Leadership
 
 certificates:
-  - title: "TOEFL Certification"
-    link: https://example.com/toefl-certificate
-  - title: "Deep Learning Specialization : Coursera"
-    link: https://coursera.org/share/3a4e89e5a36f72a7816758a254bde8a2
+  - title: "IELTS Certification"
+    link: https://drive.google.com/file/d/16d-5CEoB9wTzhm47u9zHsPKx0F6U_Unb/view?usp=sharing
+  - title: "Introduction to Machine Learning in Production : Coursera"
+    link: https://www.coursera.org/account/accomplishments/certificate/QQ8K3NAMUXM3
+  - title: "Introduction to Deep Learning (With Honors) - HSE University : Coursera"
+    link: https://www.coursera.org/account/accomplishments/verify/7PEBCKMHHZLD?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=pdf_header_button&utm_product=course
+  - title: "Deep Learning with Pytorch: Zero to GANs : Jovian.ml"
+    link: https://jovian.ai/certificate/MFQWCMJTG4
+  - title: "Data Mining with Python : Pirple "
+    link: https://www.pirple.com/certificates/3k5rbv6e5b
 
