@@ -49,14 +49,6 @@ tag:
 								{% endfor %}
 							</div>
 						</div>
-						<div class="6u$ 12u$(small) ">
-							<h4>Methodologies</h4>
-							<p>
-								{% for meth in prj.methodologies %}
-								<a href="#" class="button small disable">{{ meth }}</a>
-								{% endfor %}
-							</p>
-						</div>
 					</div>
 				</div>
 				{% endfor %}
