@@ -1,0 +1,21 @@
+title: "TEZARNet: TEmporal Zero-shot Activity Recognition Network"
+date: "August 2023"
+venue: "ICONIP, Grade-B Conference"
+status: "Accepted"
+authors: "Pathirage N. Deelaka, Devin Y. Silva, Sandareka Wickramanayake, Dulani Meedeniya, Sanka Rasnayaka"
+keyword: "Human Activity Recognition, Zero-shot Learning, Inertial Measurement Unit Data"
+code: "https://github.com/nipdep/TEZARNet"
+paper: "https://link.springer.com/chapter/10.1007/978-981-99-8184-7_34"
+
+image: assets/images/publications/terzanet_pic1.jpg
+abstract: "Human Activity Recognition (HAR) using Inertial Measurement Unit (IMU) sensor data has practical applications in healthcare and assisted living environments. However, its use in real-world scenarios has been limited due to the lack of comprehensive IMU-based HAR datasets covering various activities. Zero-shot HAR (ZS-HAR) can overcome these data limitations. However, most existing ZS-HAR methods based on IMU data rely on attributes or word embeddings of class labels as auxiliary data to relate the seen and unseen classes. This approach requires expert knowledge and lacks motion-specific information. In contrast, videos depicting various human activities provide valuable information for ZS-HAR based on inertial sensor data, and they are readily available. Our proposed model, TEZARNet: TEmporal Zero-shot Activity Recognition Network, uses videos as auxiliary data and employs a Bidirectional Long-Short Term IMU encoder to exploit temporal information, distinguishing it from current work. The proposed model outperforms the state-of-the-art accuracy by 4.7%, 7.8%, 3.7%, and 9.3% for benchmark datasets PAMAP2, DaLiAc, UTD-MHAD, and MHEALTH, respectively."
+contributions:
+  - Utilization of Temporal Information IMU based HAR
+  - Semantic Space Construction
+  - K-Nearest Neighbour (KNN) Inference
+  - Significant Performance Improvements
+
+lessons:
+  - Temporal Information Matters
+  - Utilizing Videos for Semantic Space
+  - Account for Model Reproducibility specially in ZSL training

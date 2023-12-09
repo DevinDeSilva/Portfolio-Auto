@@ -1,0 +1,22 @@
+title: "GeoRTNet: Geometric Perception based Efficient Text Recognition"
+date: "August 2022"
+venue: "Future of Information and Communication Conference (FICC)"
+status: "In Review"
+authors: "P.N.Deelaka, D.R.Jayakody, D.Y.Silva"
+keyword: "Scene Text Recognition, federated learning, metric learning"
+code: "https://github.com/ACRA-FL/GeoTRNet"
+paper: "https://arxiv.org/abs/2302.03873"
+
+image: assets/images/publications/geortnet_pic1.png
+abstract: "Every Scene Text Recognition (STR) task consists of text localization & text recognition as the prominent sub-tasks. However, in real-world applications with fixed camera positions such as equipment monitor reading, image-based data entry, and printed document data extraction, the underlying data tends to be regular scene text. Hence, in these tasks, the use of generic, bulky models comes up with significant disadvantages compared to customized, efficient models in terms of model deployability, data privacy & model reliability. Therefore, this paper introduces the underlying concepts, theory, implementation, and experiment results to develop models, which are highly specialized for the task itself, to achieve not only the SOTA performance but also to have minimal model weights, shorter inference time, and high model reliability. We introduce a novel deep learning architecture (GeoTRNet), trained to identify digits in a regular scene image, only using the geometrical features present, mimicking human perception over text recognition."
+contributions:
+  - Novel Image Feature Encoding
+  - Spatial Attention Mechanism
+  - Fully-Convolutional multi-class multi-Label Prediction
+  - Synthetic Data Generation
+
+lessons:
+  - Geometry-Centric Approach
+  - Innovative Label Prediction
+  - Data Diversity
+  - Empirical Validation
