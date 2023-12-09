@@ -1,0 +1,16 @@
+title: ML Engineer 
+company: IronOne Technologies
+employment_type: Full-time
+employment_period: 2023 - current
+location: Green Hills Trail, Austin, Texas.
+description: "I worked on a prediction system for credit card payment delinquency with integrated explainability using SHAP for system fairness and critical decision understanding for the client action takers."
+projects:
+  - title: "Delinquency prediction"
+    description: "This project is a credit card delinquency prediction using customer characterization data from multiple sources, the predictions are explained using SHAP values and these insights are given to client to improve decision making. Further model fairness has been taken into critical consideration due to the subject matter"
+    technologies:
+      - sk_learn
+      - python
+      - aws
+      - shap
+achievements:
+  - "Model Insights and Explainability through SHAP"

@@ -1,14 +1,20 @@
 ---
-layout: detail
-title: "Machine Learning Engineer"
-description: "In my role as a Machine Learning Engineer at XYZ Tech Solutions"
-image: assets/images/pic06.jpg
+layout: post
+title: "ML Engineer"
+description: "ML Engineer @ IronOne Technologies"
+image: assets/images/experience/Ironone.png
 categories: experiences
 type: experience
 permalink: /:categories/:title
+tag:
+ - Machine Learning
+ - Explainable AI
+ - Model Fairness
+ - Time Series
+ - FinTech 
 ---
 
-{% assign exp = site.data.experiences.exp_1 %}
+{% assign exp = site.data.experiences.ironone_ml_engineer %}
 <div id="main">
 	<section id='second'>
 		<div class="inner no-padding">
@@ -44,14 +50,6 @@ permalink: /:categories/:title
 								{% endfor %}
 							</div>
 						</div>
-						<div class="6u$ 12u$(small) ">
-							<h4>Methodologies</h4>
-							<p>
-								{% for meth in prj.methodologies %}
-								<a href="#" class="button small disable">{{ meth }}</a>
-								{% endfor %}
-							</p>
-						</div>
 					</div>
 				</div>
 				{% endfor %}
@@ -61,7 +59,7 @@ permalink: /:categories/:title
 			<div>
 				<h2>Key Achievements</h2>
                 <ul class='fa-ul'>
-					{% for key in exp.archievement %}
+					{% for key in exp.achievements %}
                     <li><i class="fa-li fa fa-check-square"></i>{{ key }}</li>
 					{% endfor %}
                 </ul>

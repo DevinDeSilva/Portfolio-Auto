@@ -2,7 +2,7 @@
 layout: post
 title: "ML Engineer Internship"
 description: "ML Engineer Internship @ promiseQ"
-image: assets/images/experience/promiseQ.jpg
+image: assets/images/experience/promiseQ.png
 categories: experiences
 type: experience
 permalink: /:categories/:title
