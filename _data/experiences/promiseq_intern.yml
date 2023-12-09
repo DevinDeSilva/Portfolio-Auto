@@ -9,36 +9,28 @@ projects:
     description: "I worked on Production Deployment of Models, which consisted of the maintaining Threat detection API and image cluster management through Google Cloud Platform (GCP)"
     technologies:
       - flask
-      - Pytorch
-      - Docker
-    methodologies:
-      - Agile
+      - PyTorch
+      - docker
   - title: "Designing and developing a efficient motion detection system"
     description: "Previously to detect the motion detection of the detected objects in the scene promiseQ used DeepSORT which had the problems of having high false positives (FP) due to bounding box jitter and high latency, By using the concepts of Background image extraction we developed an efficient detection algorithm which reduced FP and improved latency."
     technologies:
       - python
-      - sklearn
+      - sk_learn
       - cv2
-    methodologies:
-      - Agile
   - title: "Designing and developing a efficient shaky Camera detection system"
     description: "Created a dataset , implemented algorithms and tested efficient shaky camera detection techniques."
     technologies:
       - python
-      - sklearn
+      - sk_learn
       - cv2
-    methodologies:
-      - Agile
   - title: "Automating Testing/Deployment Using MLOps and Gitlab runners."
     description: "Automated the latency tests, accuracy tests and deployment to dev, stage and production environments/clusters using Gitlab runners."
     technologies:
       - python
-      - GitLab runners.
-      - Google Cloud Platform
-    methodologies:
-      - Agile
+      - github_actions.
+      - cloud-logo
 achievements:
   - "Production Model Deployment."
   - "Designing and developing a efficient motion detection system."
   - "Automating Testing/Deployment Using MLOps and Gitlab runners."
-  - "Designing and developing a efficient shaky Camera detection system"
+  - "Designing and developing a efficient shaky Camera detection system."
