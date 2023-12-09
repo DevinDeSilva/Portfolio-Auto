@@ -15,7 +15,7 @@ cv_url: https://drive.google.com/file/d/1S9l3enfPX48m0KydW-mxPzRbqq0oefp5/view?u
 repository: DevinDeSilva/Portfolio-Auto
 github: https://github.com/DevinDeSilva
 
-header_image: assets/images/devin_professional.png
+header_image: assets/images/devin_professional.jpg
 
 theme_config:
   appearance: "light" # can be "light", "dark" or "auto"
