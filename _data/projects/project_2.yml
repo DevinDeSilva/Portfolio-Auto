@@ -2,6 +2,7 @@ status: completed
 type: Deep Learning
 area: Computer Vision
 role: Machine Learning Engineer
+code: "https://github.com/yourusername/project1"
 
 description: "This project involves the creation of a facial recognition system using deep learning techniques. The model employs a custom-built convolutional neural network (CNN) and is trained on a vast dataset of facial images. It boasts an impressive recognition accuracy of 98%."
 

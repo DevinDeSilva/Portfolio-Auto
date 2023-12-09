@@ -1,36 +1,40 @@
+# Build settings
 plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-assets
-
-# site settings
-title: John 
-subtitle: Doe
+  
+title: John Doe
 email: johndoe@example.com
 description: 'Personal Portfolio'
 baseurl: "/Portfolio-Auto" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
-street_address: 
-city: 
-state: 
-zip_code: 
-country: 
-phone: 
+url: 
+portfolio_url: https://github.com/johndoe
+cv_url: assets/pdf/cv.pdf
+repository: nipdep/portfolio
+twitter: https://twitter.com/johndoe
+github: 
 
-socials:
-  GitHub: https://github.com/johndoe
-  GitLab:
-  Google-Plus: 
-  Instagram:
-  LinkedIn: https://www.linkedin.com/in/johndoe
-  Twitter: https://twitter.com/johndoe
-  Facebook:
-  Slack:
+header_image: assets/images/profile_pic3.png
 
-# homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance_toggle: true # if appearance can be switched by user
 
-# build settings
+google_analytics:
+  tracking_id: G-H2K6ZWCRB5
+
+comments: true
+disqus: purelog-jekyll
+
+author: John Doe
+author_bio: >-
+  John Doe is a software engineer and data scientist. He is currently pursuing a Master's degree in Computer Science at the University of Toronto. His research interests include deep learning, computer vision, and natural language processing.
+author_pic: https://brennanbrown.ca/img/avatar.png
+paginate: 4
+paginate_path: "/:num/"
+
 markdown: kramdown
 
 sass:
@@ -39,8 +43,8 @@ sass:
 assets:
   baseurl: /assets
 
+# Exclude from processing.
 exclude:
-- "*.gemspec"
-- LICENSE.md
-- CONTRIBUTING.md
-- README.md 
+  - ".jekyll-cache"
+  - "Gemfile"
+  - "Gemfile.lock"

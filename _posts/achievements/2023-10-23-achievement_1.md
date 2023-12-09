@@ -81,3 +81,4 @@ permalink: /:categories/:title
 		</div>
 	</section>
 </div>
+

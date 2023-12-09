@@ -2,6 +2,7 @@ status: completed
 type: Deep Learning
 area: Computer Vision
 role: Machine Learning Engineer
+code: "https://github.com/yourusername/project1"
 
 description: "This project focuses on the development of a deep learning model for object detection. The model utilizes a state-of-the-art convolutional neural network (CNN) architecture and is trained on a diverse dataset of images containing various objects. It achieves an impressive accuracy of 95% in detecting objects within images."
 
