@@ -1,0 +1,23 @@
+title: "Datathon 2023, All island Competition"
+organizer: SLIIT Campus, Sri Lanka
+year: "April 2023"
+place: 2nd place
+team: "Devin, Tharindu, Nipun"
+code: https://github.com/BoTZ-TND/Datathon-2023
+paper: #
+
+description: "All Island Data Science and Machine Learning Competition, was an exhilarating journey into the world of data processing and analysis. It was a unique platform where we were not only tasked with extracting valuable insights from data but also challenged to create innovative solutions. The final task was a real highlight, where we had to develop an Intrusion Detection System based on unlabeled data. To achieve this, we deployed several popular clustering models to detect and identify outliers that could potentially be intrusions in a web application. It was a thrilling experience that pushed the boundaries of our data science and machine learning skills."
+technologies:
+  - python
+  - sk_learn
+  - numpy
+  - pandas
+  - matplotlib
+methodologies:
+  - Clustering
+  - Data preprocessing
+  - Feature Engineering
+
+archievement:
+  - "Creative Intrusion Detection System:</b> We successfully crafted an innovative intrusion detection system using clustering models, showcasing our ability to think outside the box in cybersecurity."
+  - "Data Analysis: Our team demonstrated exceptional data processing and analysis skills, providing valuable insights from complex datasets."

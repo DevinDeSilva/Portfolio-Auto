@@ -1,0 +1,23 @@
+title: "Datathon 2022, All island Competition"
+organizer: SLIIT Campus, Sri Lanka
+year: "April 2022"
+place: 1st place
+team: "Devin, Tharindu, Nipun"
+code: https://github.com/BoTZ-TND/Datathon-2022
+paper: #
+
+description: "All Island Data Science and Machine Learning Competition, was an exhilarating journey into the world of data processing and analysis. It was a unique platform where we were not only tasked with extracting valuable insights from data but also challenged to create innovative solutions. The final task was a real highlight, where we had to develop an Intrusion Detection System based on unlabeled data. To achieve this, we deployed several popular clustering models to detect and identify outliers that could potentially be intrusions in a web application. It was a thrilling experience that pushed the boundaries of our data science and machine learning skills."
+technologies:
+  - python
+  - sk_learn
+  - numpy
+  - pandas
+  - matplotlib
+methodologies:
+  - Recommendation System
+  - Collaborative Filtering
+  - ALE Distribution Model
+
+archievement:
+  - "Recommendation Model: Our transition from a basic user-based system to advanced models showcased our adaptability and problem-solving skills."
+  - "Advanced Techniques: Implementing non-negative matrix factorization and ALE distribution models highlighted our proficiency in cutting-edge methodologies."

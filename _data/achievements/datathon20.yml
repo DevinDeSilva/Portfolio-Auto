@@ -1,0 +1,26 @@
+title: "Datathon 2020, All island Competition"
+organizer: SLIIT Campus, Sri Lanka
+year: "April 2020"
+place: 2st place
+team: "Devin, Tharindu, Nipun"
+code: https://github.com/BoTZ-TND/Datathon-1.0
+paper: #
+
+description: "Our participation in the All-Island Data Science and Machine Learning Competition was a journey of data exploration, innovation, and societal impact. In this thrilling competition, we embarked on a comprehensive data analysis quest that led to a groundbreaking solution. Our final challenge was to design a system for detecting Covid-19 spread and conducting a thorough analysis of its impact. We took a multifaceted approach, crafting an LSTM-based multivariate time series model for precise Covid-19 spread predictions at the district level. To provide valuable insights, we harnessed meta-heuristic analysis techniques to evaluate the potential impact of Covid-19 on various selected industries."
+technologies:
+  - python
+  - sk_learn
+  - numpy
+  - pandas
+  - matplotlib
+  - jenkins
+  - luigi
+methodologies:
+  - LSTM Modeling
+  - Auto Regression Modeling
+  - Automated Pipeline deployment
+
+archievement:
+  - "We created a ETL pipeline to web-scrape and retrieve covid-19 statistics to feed into our models" 
+  - "We successfully developed a sophisticated LSTM-based multivariate time series analysis model, showcasing our prowess in this cutting-edge technology."
+  - "Our Covid-19 spread detection and impact analysis system aimed at making a positive difference in society, emphasizing the importance of data-driven decision-making."
