@@ -66,7 +66,7 @@ tag:
 			<div>
 				<h2>Key Achievements</h2>
                 <ul class='fa-ul'>
-					{% for key in exp.archievement %}
+					{% for key in prj.archievement %}
                     <li><i class="fa-li fa fa-check-square"></i>{{ key }}</li>
 					{% endfor %}
                 </ul>
