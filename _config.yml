@@ -11,7 +11,7 @@ description: 'Personal Portfolio'
 baseurl: "/Portfolio-Auto" # the subpath of your site, e.g. /blog
 url: 
 portfolio_url: https://devindesilva.github.io/Portfolio-Auto/personal
-cv_url: https://drive.google.com/file/d/1S9l3enfPX48m0KydW-mxPzRbqq0oefp5/view?usp=sharing
+cv_url: assets/pdf/DevinCV_OnePage_extended_academic.pdf
 repository: DevinDeSilva/Portfolio-Auto
 github: https://github.com/DevinDeSilva
 
