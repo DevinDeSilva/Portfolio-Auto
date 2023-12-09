@@ -1,0 +1,23 @@
+title: "Vision & Image Processing Cup"
+organizer: IEEE International Organization
+year: "December 2022"
+place: Top Ten
+team: "Tharindu, Devin, Dilith, Nuwan, Pamuditha, Thieshanthan, Amashi"
+code: https://github.com/BoTZ-TND/VIPCup-2022
+paper: #
+
+description: "In the challenging VIP22 competition, our mission was crystal clear: to distinguish synthetic AI-generated images from natural ones and identify the specific generative model used. This ambitious endeavor led us on a research odyssey through the intricate world of computer vision. From experimenting with generic Vision Transformer-based classifiers to harnessing the power of Contrastive Learning techniques, we left no stone unturned. We even ventured into the realm of adversarial learning models to sharpen our edge in this grand competition."
+technologies:
+  - python
+  - PyTorch
+  - tensorflow
+  - keras
+methodologies:
+  - Vision Transformers (ViTs)
+  - Contrastive Learning
+  - Adversarial Learning
+
+archievement:
+  - "We achieved high accuracy in discerning synthetic AI-generated images from their natural counterparts, showcasing our models' robustness in identifying subtle differences."
+  - "Generative Model Identification: Our project excelled in not only detecting synthetic images but also correctly identifying the generative model responsible for their creation."
+  - "Versatile Methodologies: Our wide range of methodologies, from Vision Transformers to adversarial learning, demonstrated the flexibility and adaptability of our approach in complex AI tasks."
