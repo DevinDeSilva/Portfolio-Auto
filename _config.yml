@@ -5,21 +5,20 @@ plugins:
   - jekyll-paginate
   - jekyll-assets
   
-title: John Doe
-email: johndoe@example.com
+title: Devin De Silva
+email: devin.18@cse.mrt.ac.lk
 description: 'Personal Portfolio'
 baseurl: "/Portfolio-Auto" # the subpath of your site, e.g. /blog
 url: 
-portfolio_url: https://github.com/johndoe
-cv_url: assets/pdf/cv.pdf
-repository: nipdep/portfolio
-twitter: https://twitter.com/johndoe
-github: 
+portfolio_url: https://devindesilva.github.io/Portfolio-Auto/personal
+cv_url: https://drive.google.com/file/d/1S9l3enfPX48m0KydW-mxPzRbqq0oefp5/view?usp=sharing
+repository: DevinDeSilva/Portfolio-Auto
+github: https://github.com/DevinDeSilva
 
-header_image: assets/images/profile_pic3.png
+header_image: assets/images/devin_professional.png
 
 theme_config:
-  appearance: "dark" # can be "light", "dark" or "auto"
+  appearance: "light" # can be "light", "dark" or "auto"
   appearance_toggle: true # if appearance can be switched by user
 
 google_analytics:
@@ -30,7 +29,7 @@ disqus: purelog-jekyll
 
 author: John Doe
 author_bio: >-
-  John Doe is a software engineer and data scientist. He is currently pursuing a Master's degree in Computer Science at the University of Toronto. His research interests include deep learning, computer vision, and natural language processing.
+  I'm a ML Engineer at IronOne Technologies, Austin Texas. My current research interests lie in Explainable AI and Zero-shot Learning Domain and currently I am working on fintech domain and utilizing model explanations to provide valuable insights to a major asset management company. By exploiting my theoretical knowledge, I engaged in projects and work spanning aspects of research, including data analysis, formulating an optimization objective, and algorithm design.
 author_pic: https://brennanbrown.ca/img/avatar.png
 paginate: 4
 paginate_path: "/:num/"
