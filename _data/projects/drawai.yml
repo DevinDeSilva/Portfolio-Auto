@@ -1,0 +1,32 @@
+status: In Progress
+type: Group
+area: Deep Learning
+role: Data Scientist
+code: ""
+
+description: "'Draw.ai' is a pioneering project dedicated to simplifying the daily workflow of deep learning practitioners. By introducing a comprehensive deep learning model visualization library, we aimed to revolutionize the field. This innovative system, constructed using FastAPI, Guricov, and three.js for web rendering, offers deep learning practitioners an extensive array of visualizations for any deep learning model. Our mission was to provide the community with a user-friendly and informative tool to enhance their understanding and management of these complex models, making the entire process smoother and more efficient."
+
+features:
+  - Draw.ai offers an extensive selection of visualizations, from model architecture diagrams to feature maps, to provide a holistic view of deep learning models.
+  - FastAPI Backend The system is powered by FastAPI, offering robust and high-performance backend capabilities for seamless data handling and interactions.
+  - Web-Based 3D Rendering, Utilizing 3.js, Draw.ai enables interactive 3D rendering of complex model structures, enhancing understanding and insight.
+  
+technologies:
+  - python
+  - JS
+  - threejs
+  - fastapi
+
+methodologies:
+  - Frontend Development
+  - FastAPI Backend
+  - Model Analysis
+
+visualizations:
+  - https://hhsbanner.com/wp-content/uploads/2019/03/victoria_falls-900x300.jpg
+  - https://blog.cognifit.com/wp-content/uploads/2019/11/hiking-900x300.jpg
+  - https://travelfree.info/wp-content/uploads/2018/02/croatia-waterfall-in-deep-forest-of-Cr-12755165-900x300.jpg
+
+lessons:
+  - The integration of interactive 3D rendering using 3.js greatly enhanced the learning experience, allowing users to engage with model structures effectively.
+  - We discovered that creating an accessible and user-friendly interface was paramount to the success of the project, as it ensured that practitioners of all levels could benefit from the visualizations.
