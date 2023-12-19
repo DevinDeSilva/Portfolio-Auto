@@ -1,15 +1,16 @@
 status: completed
 type: Deep Learning
 area: Computer Vision
-role: Machine Learning Engineer
-code: "https://github.com/yourusername/project1"
+role: Developer
+code: "https://github.com/ACRA-FL/digitgen"
 
-description: "This project involves the creation of a facial recognition system using deep learning techniques. The model employs a custom-built convolutional neural network (CNN) and is trained on a vast dataset of facial images. It boasts an impressive recognition accuracy of 98%."
+description: "A Python package to generate synthetic digit images with customizable noise, Allows large variation of outputs as well as fine grain customization of digit generation probabilities."
 
 features:
-  - Custom CNN architecture
-  - Facial recognition capabilities
-  - Real-time processing
+  - RGB or Gray Scale Image generation
+  - Variable Spaces between digits
+  - Multiple Noise Types
+  - Fine grain customization of digit generation probabilities
   
 technologies:
   - python
