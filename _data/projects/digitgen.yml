@@ -13,21 +13,22 @@ features:
   - Fine grain customization of digit generation probabilities
   
 technologies:
-  - python
-  - keras
-  - tf
+  - Python
+  - cv2
+  - sk_learn
+  - PyPI
 
 methodologies:
-  - Agile
-  - Scrum
-  - Kanban
+  - Python Package
+  - Image generation
 
 visualizations:
-  - https://hhsbanner.com/wp-content/uploads/2019/03/victoria_falls-900x300.jpg
-  - https://blog.cognifit.com/wp-content/uploads/2019/11/hiking-900x300.jpg
-  - https://travelfree.info/wp-content/uploads/2018/02/croatia-waterfall-in-deep-forest-of-Cr-12755165-900x300.jpg
+  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/basecase.png
+  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/space_between_characters.png
+  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/noisy%20images.png
+  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/Noisy%20Gaussian.png
 
 lessons:
-  - Expertise in deep learning for facial recognition
   - Real-time image processing
-  - Model fine-tuning for better accuracy
+  - Package creation.
+  - Data creation.
