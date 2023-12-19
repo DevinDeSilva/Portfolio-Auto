@@ -12,7 +12,7 @@ tag:
  - Image Annotation
 ---
 
-{% assign prj = site.data.projects.project_3 %}
+{% assign prj = site.data.projects.pneumonia %}
 <div id="main">
 	<section id='second'>
 		<div class="inner no-padding">
