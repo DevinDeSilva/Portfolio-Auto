@@ -60,6 +60,9 @@ tag:
 		<div class="inner no-padding">
 			<div>
 				<h2>Project Visualization</h2>
+				<div class="pseudo">  
+						<img src="https://github.com/Deforestration-Tracker-ADK/forestrack-model/blob/main/DOCS/images/psuedo%20code.PNG?raw=true" width="100%" />
+					</div>
 				<div id="slider">  
 					{% for img in prj.visualizations%}
 					<div class="slides">  
