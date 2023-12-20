@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Projects-3"
-description: "This project is dedicated to developing an image classification model for wildlife monitoring"
+title: "Pneumonia detection"
+description: "Predicting Pneumonia Using Human Chest X-ray"
 image: assets/images/pic06.jpg
 categories: "projects"
 type: "projects"
 permalink: /:categories/:title
 tag:
- - Python Library
+ - Deep Learning
  - Computer Vision
- - Image Annotation
 ---
 
 {% assign prj = site.data.projects.pneumonia %}
