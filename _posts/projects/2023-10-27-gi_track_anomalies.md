@@ -21,7 +21,8 @@ tag:
                         <li><a href="#" class="button special small disable">Type</a><a href="#" class="button small disable">{{prj.type}}</a></li>
                         <li><a href="#" class="button special small disable">Area</a><a href="#" class="button small disable">{{prj.area}}</a></li>
 						<li><a href="#" class="button special small disable">Role</a><a href="#" class="button small disable">{{prj.role}}</a></li>
-						<li><a href="#" class="button special small disable"><i class="fab fa-github"></i></a><a href="{{prj.code}}" class="button small">Code base</a></li>
+						<li><a href="#" class="button special small disable"><i class="fab fa-github"></i></a><a href="https://github.com/3GuysCoding-ALD/GastroIntestinalAnamolyDetection/blob/main/FinalReport.pdf" class="button small">Report</a></li>
+						<li><a href="#" class="button special small disable"><i class="fa-solid fa-flag"></i></a><a href="{{prj.code}}" class="button small">Code base</a></li>
                     </ul>
             </div>
 			<div>
