@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Projects-3"
-description: "This project is dedicated to developing an image classification model for wildlife monitoring"
-image: assets/images/pic06.jpg
+title: "Fores-track"
+description: "Satellite based Deforestation Tracking & Forest Surveillance System"
+image: assets/images/gif/g8.gif
 categories: "projects"
 type: "projects"
 permalink: /:categories/:title
 tag:
- - Python Library
+ - Web Application
  - Computer Vision
- - Image Annotation
+ - Satellite Image Processing
+ - MLOps
 ---
 
 {% assign prj = site.data.projects.foresttrack %}
@@ -40,7 +41,7 @@ tag:
 					<h3>Technologies</h3>
 					<div class='logos-container'>
 						{% for img in prj.technologies %}
-						<img src="{{site.baseurl}}/assets/images/logos/{{ img }}.png" alt="python" class="logos">
+						<img src="{{site.baseurl}}/assets/images/logos/{{ img }}.png" alt="Logo 1" class="logos">
 						{% endfor %}
 					</div>
 				</div>
@@ -60,7 +61,7 @@ tag:
 			<div>
 				<h2>Project Visualization</h2>
 				<div id="slider">  
-					{% for img in prj.visualizations %}
+					{% for img in prj.visualizations%}
 					<div class="slides">  
 						<img src="{{ img }}" width="100%" />
 					</div>
