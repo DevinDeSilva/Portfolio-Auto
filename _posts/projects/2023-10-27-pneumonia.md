@@ -59,6 +59,9 @@ tag:
 		<div class="inner no-padding">
 			<div>
 				<h2>Project Visualization</h2>
+				<div class="dataset">  
+						<img src="https://github.com/DevinDeSilva/Pneaumonia_prediction_using_chest_xrays/blob/master/images/dataset%20image.PNG?raw=true" width="100%" />
+					</div>
 				<div id="slider">  
 					{% for img in prj.visualizations %}
 					<div class="slides">  

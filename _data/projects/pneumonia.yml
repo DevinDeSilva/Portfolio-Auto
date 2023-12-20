@@ -1,32 +1,30 @@
 status: completed
 type: Deep Learning
 area: Computer Vision
-role: Machine Learning Engineer
-code: "https://github.com/yourusername/project3"
+role: Machine Learning Undergraduate
+code: "https://github.com/DevinDeSilva/Pneaumonia_prediction_using_chest_xrays"
 
-description: "This project is dedicated to developing an image classification model for wildlife monitoring. The model is built upon a pre-trained convolutional neural network (CNN) and fine-tuned on a dataset of wildlife images. It achieves a remarkable classification accuracy of 96%."
+description: "This task uses data from kaggle dataset Chest X-Ray Images (Pneumonia) for the task of predicting Pneumonia using Human Chest X-rays."
 
 features:
-  - Pre-trained CNN model
-  - Wildlife image classification
-  - Species identification
+  - Pneumonia type Identification using human chest X-rays.
   
 technologies:
   - python
   - PyTorch
   - fastapi
+  - medium
 
 methodologies:
-  - Agile
-  - Scrum
-  - Continuous Integration
+  - Model Development
+  - Image Transformations
 
 visualizations:
-  - https://hhsbanner.com/wp-content/uploads/2019/03/victoria_falls-900x300.jpg
-  - https://blog.cognifit.com/wp-content/uploads/2019/11/hiking-900x300.jpg
-  - https://travelfree.info/wp-content/uploads/2018/02/croatia-waterfall-in-deep-forest-of-Cr-12755165-900x300.jpg
+  - https://github.com/DevinDeSilva/Pneaumonia_prediction_using_chest_xrays/blob/master/images/pred_1.PNG?raw=true
+  - https://github.com/DevinDeSilva/Pneaumonia_prediction_using_chest_xrays/blob/master/images/pred_2.PNG?raw=true
+  - https://github.com/DevinDeSilva/Pneaumonia_prediction_using_chest_xrays/blob/master/images/pred_3.PNG?raw=true
+  - https://github.com/DevinDeSilva/Pneaumonia_prediction_using_chest_xrays/blob/master/images/pred_4.PNG?raw=true
 
 lessons:
-  - Proficiency in deep learning for wildlife conservation
-  - Efficient transfer learning for image classification
-  - Model optimization for real-world applications
+  - Understanding of fine-tuning in computer vision
+  - Working with specialized images
