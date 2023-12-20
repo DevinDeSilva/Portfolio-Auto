@@ -13,7 +13,7 @@ features:
   - Fine grain customization of digit generation probabilities
   
 technologies:
-  - Python
+  - python
   - cv2
   - sk_learn
   - PyPI
@@ -23,10 +23,10 @@ methodologies:
   - Image generation
 
 visualizations:
-  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/basecase.png
-  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/space_between_characters.png
-  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/noisy%20images.png
-  - https://github.com/ACRA-FL/digitgen/blob/master/Docs/Images/Noisy%20Gaussian.png
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/basecase.png
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/space_between_characters.png
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/noisy%20images.png
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/Noisy%20Gaussian.png
 
 lessons:
   - Real-time image processing
