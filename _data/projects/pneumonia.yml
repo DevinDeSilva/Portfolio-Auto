@@ -4,15 +4,14 @@ area: Computer Vision
 role: Machine Learning Undergraduate
 code: "https://github.com/DevinDeSilva/Pneaumonia_prediction_using_chest_xrays"
 
-description: "This task uses data from kaggle dataset Chest X-Ray Images (Pneumonia) for the task of predicting Pneumonia using Human Chest X-rays."
+description: "Predicting the probability of having bacterial and viral pneumonia using the power of CNN with ResNet and chest X-rays."
 
 features:
   - Pneumonia type Identification using human chest X-rays.
   
 technologies:
   - python
-  - PyTorch
-  - fastapi
+  - tf
   - medium
 
 methodologies:
