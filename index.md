@@ -112,11 +112,12 @@ order: 1
 			<ul class="fa-ul">
 				{% for d in data.certificates %}
 				<li>
-					<i class="fa-li fa fa-check-square"></i>{{ d.title }}
-					<a href="{{ d.link }}">
+					<i class="fa-li fa fa-check-square">
+                    <a href="{{ d.link }}">
 						<i class="fas fa-arrow-right"></i>
 						{{ d.title }}
 					</a>
+                    </i>
 				</li>
 				{% endfor %}
 			</ul>
