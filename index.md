@@ -113,9 +113,9 @@ order: 1
 				{% for d in data.certificates %}
 				<li>
 					<i class="fa-li fa fa-check-square"></i>{{ d.title }}
-					<a href="#">
+					<a href="{{ d.link }}">
 						<i class="fas fa-arrow-right"></i>
-						{{ d.link }}
+						{{ d.title }}
 					</a>
 				</li>
 				{% endfor %}
