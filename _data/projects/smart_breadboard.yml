@@ -1,0 +1,30 @@
+status: completed
+type: Self supervised Research and Innovation
+area: Backend design
+role: Developer
+code: "https://drive.google.com/drive/u/0/folders/1xaSNThewvvsGVQ5pdaWTqzAHVvRtRN91"
+
+description: "Remote Access Breadboard to assist electronics laboratory work during lockdowns in the Pandemic. 1st place at IEEE PES national design competition, Selected from IEE CAS student design competition 2020-2021, to represent Sri Lanka in the IEEE region 10 (Australia-Asia-Pacific)."
+
+features:
+  - 1st place at IEEE PES national design competition
+  - Selected from IEE CAS student design competition 2020-2021, to represent Sri Lanka in the IEEE region 10 (Australia-Asia-Pacific).
+  
+technologies:
+  - python
+  - fastapi
+
+methodologies:
+  - Backend Development
+  - Software System design
+
+visualizations:
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/basecase.png
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/space_between_characters.png
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/noisy%20images.png
+  - https://raw.githubusercontent.com/ACRA-FL/digitgen/master/Docs/Images/Noisy%20Gaussian.png
+
+lessons:
+  - Real-time image processing
+  - Package creation.
+  - Data creation.
