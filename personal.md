@@ -71,13 +71,14 @@ order: 1
 			</header>
 			<ul class="fa-ul">
 				{% for d in data.certificates %}
+				<a href="{{ d.link }}">
 				<li>
 					<i class="fa-li fa fa-check-square"></i>{{ d.title }}
-					<a href="#">
+					
 						<i class="fas fa-arrow-right"></i>
-						{{ d.link }}
-					</a>
+						
 				</li>
+				</a>
 				{% endfor %}
 			</ul>
 		</div>
