@@ -95,6 +95,7 @@ order: 1
 						<img src="{{site.baseurl}}/assets/images/logos/jenkins.png" alt="jenkins" class="logos">
 						<img src="{{site.baseurl}}/assets/images/logos/mongodb.png" alt="mongodb" class="logos">
 						<img src="{{site.baseurl}}/assets/images/logos/my_sql.png" alt="my_sql" class="logos">
+						<img src="{{site.baseurl}}/assets/images/logos/springboot.png" alt="springboot" class="logos">
 						<img src="{{site.baseurl}}/assets/images/logos/postgre_sql.png" alt="postgre_sql" class="logos">
 						<img src="{{site.baseurl}}/assets/images/logos/aws.png" alt="aws" class="logos">
 						<img src="{{site.baseurl}}/assets/images/logos/cloud-logo.svg" alt="aws" class="logos">
