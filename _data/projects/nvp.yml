@@ -1,0 +1,25 @@
+status: completed
+type: Volunteering and giving back to the country
+area: Backend Development
+role: Developer
+code: "https://drive.google.com/file/d/1_by4Vxbjj341oY0Xyv1FldULncdpaRPX/view?usp=sharing"
+
+description: "I was a part of a team of volunteer developers who created a national volunteering platform that served as a meeting platform for volunteering organiizations and eager volunteers of Sri Lanka. I mainly worked on the Backend deelopment as well as the sms service of the platform. I volunteered a total of 200 hour during my 2nd and 3rd year of university"
+
+features:
+  - 200 hours of volunteering
+  - Backend development and database management on production systems.
+  
+technologies:
+  - node
+  - springboot
+  - postgre_sql
+
+methodologies:
+  - Backend Development
+  - Database Management System
+
+lessons:
+  - Backend Development
+  - Software System design
+  - Database Management System
